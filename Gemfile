@@ -13,6 +13,7 @@ gem "paperclip", "~> 3.0"
 
 group :production do
  gem 'pg'
+ gem 'thin'
  gem 'rails_12factor'
 end
 
