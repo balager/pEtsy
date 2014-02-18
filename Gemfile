@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', '~> 3.1.0'
 gem "paperclip", "~> 3.0"
 
+
 group :production do
  gem 'pg'
  gem 'rails_12factor'
